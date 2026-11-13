@@ -1,19 +1,33 @@
 {
   "game": "Dead Woods",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "date": "13.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.4.0/DeadWoods.exe",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.0/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1393811498,
-  "install_bytes": 1759933149,
+  "download_bytes": 1394088682,
+  "install_bytes": 1760675709,
   "notes": [
-    "Spielerkonten: anmelden, Einstellungen und Statistik in der Cloud sichern",
-    "Neues Logo und App-Icon",
-    "Statistik: Einsätze, Abschüsse, Spielzeit, Bestzeiten pro Karte",
-    "Update-Prüfung im Spiel repariert",
-    "Einstellungen bleiben jetzt auch ohne Konto gespeichert"
+    "Online deathmatch: free-for-all against real players, up to 8 per match",
+    "Ranks: Bronze, Silver, Platinum, Diamond, Ruby",
+    "Quick match finds an open match or hosts one for you",
+    "5 spawn points per map, choose where you respawn",
+    "The whole game is now in English"
   ],
   "changelog": [
+    {
+      "version": "0.5.0",
+      "date": "13.11.2026",
+      "title": "Online Deathmatch & Ranks",
+      "items": [
+        "All AI enemies removed: you now fight real players, free-for-all, up to 8 per match",
+        "QUICK MATCH (needs an account): joins the fullest open match or hosts one, router port opened via UPnP",
+        "Match: 8 minutes or first to 25 kills, kill feed, scoreboard on TAB, hit markers, headshots",
+        "Five spawn points per map: after a death you pick where you come back (2 s spawn protection)",
+        "Ranks Bronze, Silver, Platinum, Diamond, Ruby: +10 RP per kill, streak bonus, -4 RP per death",
+        "HOST PRIVATE MATCH and JOIN BY IP for games with friends (not ranked)",
+        "The whole game is now in English"
+      ]
+    },
     {
       "version": "0.4.0",
       "date": "13.11.2026",
