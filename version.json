@@ -1,19 +1,32 @@
 {
   "game": "Dead Woods",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "date": "13.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.3.0/DeadWoods.exe",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.4.0/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1393736829,
-  "install_bytes": 1759329650,
+  "download_bytes": 1393811498,
+  "install_bytes": 1759933149,
   "notes": [
-    "Neuer Einsatz: DEPOT - verschneites Militärdepot im Tannenwald, Abenddämmerung",
-    "Einsatzauswahl im Menü (auch beim Koop-Hosten)",
-    "Toter Wald überarbeitet: Bach, Stege, Strommasten, Lichtung, Felsen, Kraterfeld",
-    "Viele Platzierungsfehler auf der Karte behoben",
-    "Update-Hinweis direkt im Spiel"
+    "Spielerkonten: anmelden, Einstellungen und Statistik in der Cloud sichern",
+    "Neues Logo und App-Icon",
+    "Statistik: Einsätze, Abschüsse, Spielzeit, Bestzeiten pro Karte",
+    "Update-Prüfung im Spiel repariert",
+    "Einstellungen bleiben jetzt auch ohne Konto gespeichert"
   ],
   "changelog": [
+    {
+      "version": "0.4.0",
+      "date": "13.11.2026",
+      "title": "Konto & neues Logo",
+      "items": [
+        "Neuer Menüpunkt KONTO: registrieren mit E-Mail und Passwort, Bestätigung per Mail, Passwort vergessen",
+        "Einstellungen, Ausrüstung und Statistik werden im Konto gesichert und auf jedem PC geladen",
+        "Statistik: abgeschlossene Einsätze, ausgeschaltete Feindkräfte, Gefallen, Spielzeit, Bestzeit pro Karte",
+        "Ohne Konto bleibt alles lokal gespeichert (vorher gingen Einstellungen beim Neustart verloren)",
+        "Neues Logo: Bodycam-Linse über dem toten Wald, als App-Icon und im Hauptmenü",
+        "Behoben: Update-Prüfung im Spiel fand den Server nicht"
+      ]
+    },
     {
       "version": "0.3.0",
       "date": "13.11.2026",
