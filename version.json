@@ -1,19 +1,34 @@
 {
   "game": "Dead Woods",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "date": "13.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.0/DeadWoods.exe",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.1/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1394088682,
-  "install_bytes": 1760675709,
+  "download_bytes": 1394219799,
+  "install_bytes": 1760816509,
   "notes": [
-    "Online deathmatch: free-for-all against real players, up to 8 per match",
-    "Ranks: Bronze, Silver, Platinum, Diamond, Ruby",
-    "Quick match finds an open match or hosts one for you",
-    "5 spawn points per map, choose where you respawn",
-    "The whole game is now in English"
+    "Fixed: spawn points inside fir trees on Depot",
+    "Anti-cheat: fire rate checked by the host, rank points capped per day",
+    "Players with different game versions can no longer join each other",
+    "Same callsigns in a match are numbered (DEV, DEV 2)",
+    "Less visible ground texture tiling"
   ],
   "changelog": [
+    {
+      "version": "0.5.1",
+      "date": "13.11.2026",
+      "title": "Fixes & anti-cheat",
+      "items": [
+        "Depot: spawn points 3, 4 and 5 were inside fir branches or facing a rock, now moved to open ground",
+        "Every spawn now faces the most open direction",
+        "Anti-cheat: the host checks the fire rate of every shot, rank points max +1500 per day, max 25 kills per match counted",
+        "Test switches can no longer be used in online matches",
+        "Joining a match with a different game version now shows a clear message",
+        "Players with the same callsign get a number, the result screen no longer shows YOU WIN to the wrong player",
+        "Lobby announcement retries if the first try fails, server password rule now at least 8 characters",
+        "Ground textures: less visible repetition; remaining German texts in the update dialog translated"
+      ]
+    },
     {
       "version": "0.5.0",
       "date": "13.11.2026",
