@@ -1,19 +1,33 @@
 {
   "game": "Dead Woods",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "date": "13.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.1/DeadWoods.exe",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.2/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1394219799,
-  "install_bytes": 1760816509,
+  "download_bytes": 1353796835,
+  "install_bytes": 1720056649,
   "notes": [
-    "Fixed: spawn points inside fir trees on Depot",
-    "Anti-cheat: fire rate checked by the host, rank points capped per day",
-    "Players with different game versions can no longer join each other",
-    "Same callsigns in a match are numbered (DEV, DEV 2)",
-    "Less visible ground texture tiling"
+    "Fixed: rocks, logs and other props showed up grey without textures",
+    "Over 1300 objects that floated, sank into the ground or stuck in each other removed or fixed",
+    "Depot: no more checkerboard pattern in the snow of the yard",
+    "Flat-looking cliff shells and water sheets on slopes removed",
+    "The ground beyond the map edge matches the map (snow on Depot)"
   ],
   "changelog": [
+    {
+      "version": "0.5.2",
+      "date": "13.11.2026",
+      "title": "Map fixes",
+      "items": [
+        "Rocks, logs, crates and other props no longer appear grey without textures",
+        "Forest: 1022 and Depot: 359 objects that stuck inside each other were removed (for example rocks lying inside branches)",
+        "Objects that floated above or sank into the ground were moved",
+        "Depot: the snow in the yard no longer shows a checkerboard pattern, road and mud edges look natural",
+        "Forest: the three large cliff rocks were removed, from behind they looked like flat sheets in the air",
+        "Puddles and ice no longer stick out of slopes as flat sheets",
+        "The ground beyond the map edge no longer looks tiled, on Depot it is snow now"
+      ]
+    },
     {
       "version": "0.5.1",
       "date": "13.11.2026",
