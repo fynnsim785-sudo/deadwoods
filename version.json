@@ -1,0 +1,55 @@
+{
+  "game": "Dead Woods",
+  "version": "0.3.0",
+  "date": "13.11.2026",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.3.0/DeadWoods.exe",
+  "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
+  "download_bytes": 1393736829,
+  "install_bytes": 1759329650,
+  "notes": [
+    "Neuer Einsatz: DEPOT - verschneites Militärdepot im Tannenwald, Abenddämmerung",
+    "Einsatzauswahl im Menü (auch beim Koop-Hosten)",
+    "Toter Wald überarbeitet: Bach, Stege, Strommasten, Lichtung, Felsen, Kraterfeld",
+    "Viele Platzierungsfehler auf der Karte behoben",
+    "Update-Hinweis direkt im Spiel"
+  ],
+  "changelog": [
+    {
+      "version": "0.3.0",
+      "date": "13.11.2026",
+      "title": "Winterdepot",
+      "items": [
+        "Neue Karte DEPOT: Container, Wachtürme, Flutlicht, Tor und Zaunlücke, 14 Gegner",
+        "Winterwetter: Schnee, verschneite Tannen, gefrorener Teich, Abendlicht",
+        "Hauptmenü: Einsatz wählen vor dem Ausrücken und beim Koop-Hosten",
+        "Toter Wald: Bach mit Holzstegen, Strommast-Linie, Holzfäller-Lichtung, Felsen, Hügel am Kartenrand",
+        "Toter Wald: Kraterfeld im Niemandsland, Laternen und Funkposten in den Gräben",
+        "Behoben: schwebende Unterstand-Dächer, stehende Gasmasken, Fremdkörper auf Grabenkanten"
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "date": "12.11.2026",
+      "title": "Koop & Feindkontakt",
+      "items": [
+        "Koop-Modus: Einsatz hosten, Mitspieler treten per IP bei (Port 7777 UDP)",
+        "Neue Gegner: S.W.A.T.-Operatoren mit Plattenträger und Helm",
+        "Echte Schuss-, Nachlade- und Schrittgeräusche statt Platzhalter",
+        "Zielen über Kimme und Korn, Rückstoß mit Federmodell, fliegende Hülsen",
+        "Grafikqualität im Menü wählbar, Standard jetzt MITTEL",
+        "Update-Hinweis im Hauptmenü mit Download und Speicherbedarf"
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "date": "11.11.2026",
+      "title": "Erste Aufnahme",
+      "items": [
+        "Karte 'Toter Wald': verbranntes Waldstück mit Grabensystem und Stacheldraht",
+        "Bodycam-Kamera mit Fischauge, Kamerawackeln und Körnung",
+        "Sturmgewehr und Dienstpistole, Nachladen per Hand",
+        "Hauptmenü, Ausrüstung, Einstellungen und Ladebildschirm"
+      ]
+    }
+  ]
+}
