@@ -1,16 +1,24 @@
 {
   "game": "Dead Woods",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "date": "14.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.5/DeadWoods.exe",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.6/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1589565521,
-  "install_bytes": 1959413617,
+  "download_bytes": 1589506755,
+  "install_bytes": 1959438705,
   "notes": [
-    "Objects are no longer strewn at random: junk lies where people were, branches under trees, stones in patches",
-    "Fixed: covered car over a crater, logs cutting into slopes, black plates at tree stumps"
+    "The downloaded update file (1.5 GB) is deleted automatically after the update"
   ],
   "changelog": [
+    {
+      "version": "0.5.6",
+      "date": "14.11.2026",
+      "title": "Update cleanup",
+      "items": [
+        "The installer file of an update (about 1.5 GB in the temp folder) is deleted automatically once the new version runs",
+        "Everything from 0.5.5 (cleaner maps)"
+      ]
+    },
     {
       "version": "0.5.5",
       "date": "14.11.2026",
