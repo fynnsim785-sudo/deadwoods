@@ -1,19 +1,31 @@
 {
   "game": "Dead Woods",
-  "version": "0.5.2",
-  "date": "13.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.2/DeadWoods.exe",
+  "version": "0.5.3",
+  "date": "14.11.2026",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.3/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1353796835,
-  "install_bytes": 1720056649,
+  "download_bytes": 1595141625,
+  "install_bytes": 1965107547,
   "notes": [
-    "Fixed: rocks, logs and other props showed up grey without textures",
-    "Over 1300 objects that floated, sank into the ground or stuck in each other removed or fixed",
-    "Depot: no more checkerboard pattern in the snow of the yard",
-    "Flat-looking cliff shells and water sheets on slopes removed",
-    "The ground beyond the map edge matches the map (snow on Depot)"
+    "Forest: 754 scanned dead pines with real branches instead of smooth trunks",
+    "Depot: real scanned spruces instead of flat card trees, and faster",
+    "New graphics setting VERY LOW for older graphics cards, automatic choice on the first start",
+    "Graphics cards without DirectX 12 now get a clear message instead of an engine error"
   ],
   "changelog": [
+    {
+      "version": "0.5.3",
+      "date": "14.11.2026",
+      "title": "Real trees & old PCs",
+      "items": [
+        "Forest: 754 scanned dead pines with real branches and bark replace the smooth trunks",
+        "Depot: real scanned spruces with modelled needles replace the flat card trees, the map also runs faster",
+        "New graphics quality VERY LOW (40 % render resolution, less texture memory) for older or weaker graphics cards",
+        "First start: the game measures your PC and picks VERY LOW, LOW or MEDIUM; existing players keep their setting",
+        "PCs without DirectX 12 / shader model 6.6 get a message with the minimum requirements (GTX 1060 / RX 580) instead of an engine error",
+        "Ground cover that stuck inside the new tree trunks was removed"
+      ]
+    },
     {
       "version": "0.5.2",
       "date": "13.11.2026",
