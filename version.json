@@ -1,18 +1,27 @@
 {
   "game": "Dead Woods",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "date": "14.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.3/DeadWoods.exe",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.4/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1595141625,
-  "install_bytes": 1965107547,
+  "download_bytes": 1594991618,
+  "install_bytes": 1965113691,
   "notes": [
-    "Forest: 754 scanned dead pines with real branches instead of smooth trunks",
-    "Depot: real scanned spruces instead of flat card trees, and faster",
-    "New graphics setting VERY LOW for older graphics cards, automatic choice on the first start",
-    "Graphics cards without DirectX 12 now get a clear message instead of an engine error"
+    "Updates install by themselves: UPDATE NOW downloads, installs and restarts the game",
+    "No more running a downloaded file by hand"
   ],
   "changelog": [
+    {
+      "version": "0.5.4",
+      "date": "14.11.2026",
+      "title": "One-click updates",
+      "items": [
+        "UPDATE NOW in the main menu downloads the new version, closes the game, installs it and starts Dead Woods again",
+        "The update file goes to the temp folder instead of your Downloads folder",
+        "Fixed: the free space on the drive showed -- in the update dialog",
+        "Everything from 0.5.3 (real trees, VERY LOW graphics, DirectX 12 check)"
+      ]
+    },
     {
       "version": "0.5.3",
       "date": "14.11.2026",
