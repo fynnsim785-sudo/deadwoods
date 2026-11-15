@@ -1,16 +1,30 @@
 {
   "game": "Dead Woods",
-  "version": "0.5.7",
-  "date": "14.11.2026",
-  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.7/DeadWoods.exe",
+  "version": "0.5.8",
+  "date": "15.11.2026",
+  "download_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/download/v0.5.8/DeadWoods.exe",
   "page_url": "https://github.com/fynnsim785-sudo/deadwoods/releases/latest",
-  "download_bytes": 1589488514,
-  "install_bytes": 1959475569,
+  "download_bytes": 1993212259,
+  "install_bytes": 2376201541,
   "notes": [
-    "Updates download in the background while you play and install when you quit",
-    "The game no longer closes for an update"
+    "Scanned containers, crates and snow heaps on Depot, charred stumps in the forest",
+    "New graphics quality LEGENDARY and a colder bodycam picture"
   ],
   "changelog": [
+    {
+      "version": "0.5.8",
+      "date": "15.11.2026",
+      "title": "Scanned objects & LEGENDARY",
+      "items": [
+        "Depot: scanned shipping containers replace the box containers, the cover is the same",
+        "Depot: scanned pallets, tarped crates, a rusty storage container and ploughed snow heaps",
+        "Forest: scanned charred stumps on the logging clearing",
+        "New graphics quality LEGENDARY for strong graphics cards: scanned dead trees, stumps, rubble and ground in the forest, better reflections",
+        "Bodycam picture: colder colours, wider lens, more chest camera movement when walking and sprinting",
+        "Depot: two containers that stuck inside each other were moved",
+        "The download is bigger now (about 2 GB)"
+      ]
+    },
     {
       "version": "0.5.7",
       "date": "14.11.2026",
